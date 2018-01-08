@@ -1,0 +1,22 @@
+.b2b-b2c-corporate .woocommerce {
+	display: none;
+}
+.b2b-b2c-private #place_order {
+	display: none;
+}
+#b2b-b2c-get-address {
+	margin-top: .5em;
+}
+#b2b-b2c-get-address input {
+	margin-bottom: 0;
+}
+.b2b-b2c-free-shipping {
+	text-transform: uppercase;
+    font-weight: bold;
+}
+#b2b-b2c-checkout-tab a {
+	width: 100px;
+	text-transform: uppercase;
+    text-align: center;
+    justify-content: center;
+}
