@@ -3,3 +3,5 @@ This plugin was developed for the sake of modifying and extending the default fu
 
 - switch between the user types: "Organization" and "Individual";
 - customization of processing the inputs of organization numbers.
+
+![picture](checkout.png)
